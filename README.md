@@ -1,10 +1,9 @@
 # weather_application
 The Flutter Weather Application is a cross-platform mobile application designed to provide real-time weather information. Utilizing a user-friendly interface, the app allows users to search for weather data by city or location. It fetches weather information from a reliable weather API, ensuring accurate and up-to-date forecasts.
 # Features
-# Real-time Weather Data: 
-Displays current weather conditions, including temperature, humidity, wind speed, and weather descriptions.
-Forecast Information: Provides a 7-day weather forecast, allowing users to plan ahead.
-User-Friendly Interface: Designed with an intuitive layout that enhances user experience.
+1) Real-time Weather Data:Displays current weather conditions, including temperature, humidity, wind speed, and weather descriptions.
+2) Forecast Information: Provides a 7-day weather forecast, allowing users to plan ahead.
+3) User-Friendly Interface: Designed with an intuitive layout that enhances user experience.
 # Technology Stack
 Flutter: For building a beautiful and responsive UI.
 Dart: The programming language used for Flutter development.
